@@ -1,5 +1,5 @@
 const plaintext = document.body.querySelector(`#plaintext`);
-const encrypted = document.body.querySelector(`#encrypted`);
+const encrypted = document.body.querySelector(`#cyphertext`);
 const key = document.body.querySelector(`#key`);
 const decrypted = document.body.querySelector(`#decrypted`);
 
